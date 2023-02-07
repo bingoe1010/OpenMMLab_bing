@@ -598,3 +598,95 @@ after_run:
 2023-02-07 23:52:31,081 - mmcls - INFO - Epoch(val) [113][20]	accuracy_top-1: 92.9500, accuracy_top-5: 99.7900
 2023-02-07 23:53:16,462 - mmcls - INFO - Saving checkpoint at 114 epochs
 2023-02-07 23:53:20,273 - mmcls - INFO - Epoch(val) [114][20]	accuracy_top-1: 93.0500, accuracy_top-5: 99.7700
+2023-02-07 23:54:05,690 - mmcls - INFO - Saving checkpoint at 115 epochs
+2023-02-07 23:54:09,447 - mmcls - INFO - Epoch(val) [115][20]	accuracy_top-1: 93.0300, accuracy_top-5: 99.7700
+2023-02-07 23:54:54,497 - mmcls - INFO - Saving checkpoint at 116 epochs
+2023-02-07 23:54:58,266 - mmcls - INFO - Epoch(val) [116][20]	accuracy_top-1: 93.0400, accuracy_top-5: 99.7700
+2023-02-07 23:55:43,548 - mmcls - INFO - Saving checkpoint at 117 epochs
+2023-02-07 23:55:47,305 - mmcls - INFO - Epoch(val) [117][20]	accuracy_top-1: 93.1100, accuracy_top-5: 99.8000
+2023-02-07 23:56:32,279 - mmcls - INFO - Saving checkpoint at 118 epochs
+2023-02-07 23:56:36,063 - mmcls - INFO - Epoch(val) [118][20]	accuracy_top-1: 93.0100, accuracy_top-5: 99.7900
+2023-02-07 23:57:24,596 - mmcls - INFO - Saving checkpoint at 119 epochs
+2023-02-07 23:57:28,630 - mmcls - INFO - Epoch(val) [119][20]	accuracy_top-1: 93.0300, accuracy_top-5: 99.8100
+2023-02-07 23:58:16,546 - mmcls - INFO - Saving checkpoint at 120 epochs
+2023-02-07 23:58:20,540 - mmcls - INFO - Epoch(val) [120][20]	accuracy_top-1: 93.0700, accuracy_top-5: 99.7700
+2023-02-07 23:59:07,292 - mmcls - INFO - Saving checkpoint at 121 epochs
+2023-02-07 23:59:11,155 - mmcls - INFO - Epoch(val) [121][20]	accuracy_top-1: 93.1000, accuracy_top-5: 99.7600
+2023-02-07 23:59:56,164 - mmcls - INFO - Saving checkpoint at 122 epochs
+2023-02-07 23:59:59,928 - mmcls - INFO - Epoch(val) [122][20]	accuracy_top-1: 93.1000, accuracy_top-5: 99.7900
+2023-02-08 00:00:45,051 - mmcls - INFO - Saving checkpoint at 123 epochs
+2023-02-08 00:00:48,813 - mmcls - INFO - Epoch(val) [123][20]	accuracy_top-1: 93.0400, accuracy_top-5: 99.7700
+2023-02-08 00:01:33,923 - mmcls - INFO - Saving checkpoint at 124 epochs
+2023-02-08 00:01:37,685 - mmcls - INFO - Epoch(val) [124][20]	accuracy_top-1: 92.9500, accuracy_top-5: 99.7600
+2023-02-08 00:02:23,180 - mmcls - INFO - Saving checkpoint at 125 epochs
+2023-02-08 00:02:27,123 - mmcls - INFO - Epoch(val) [125][20]	accuracy_top-1: 93.0200, accuracy_top-5: 99.7700
+2023-02-08 00:03:12,600 - mmcls - INFO - Saving checkpoint at 126 epochs
+2023-02-08 00:03:16,542 - mmcls - INFO - Epoch(val) [126][20]	accuracy_top-1: 93.0500, accuracy_top-5: 99.7800
+2023-02-08 00:04:02,775 - mmcls - INFO - Saving checkpoint at 127 epochs
+2023-02-08 00:04:06,707 - mmcls - INFO - Epoch(val) [127][20]	accuracy_top-1: 93.0500, accuracy_top-5: 99.7600
+2023-02-08 00:04:52,772 - mmcls - INFO - Saving checkpoint at 128 epochs
+2023-02-08 00:04:56,706 - mmcls - INFO - Epoch(val) [128][20]	accuracy_top-1: 93.0900, accuracy_top-5: 99.7800
+2023-02-08 00:05:42,091 - mmcls - INFO - Saving checkpoint at 129 epochs
+2023-02-08 00:05:46,017 - mmcls - INFO - Epoch(val) [129][20]	accuracy_top-1: 93.1000, accuracy_top-5: 99.7700
+2023-02-08 00:06:31,427 - mmcls - INFO - Saving checkpoint at 130 epochs
+2023-02-08 00:06:35,351 - mmcls - INFO - Epoch(val) [130][20]	accuracy_top-1: 93.1100, accuracy_top-5: 99.7800
+2023-02-08 00:07:20,996 - mmcls - INFO - Saving checkpoint at 131 epochs
+2023-02-08 00:07:24,922 - mmcls - INFO - Epoch(val) [131][20]	accuracy_top-1: 93.1200, accuracy_top-5: 99.7800
+2023-02-08 00:08:10,293 - mmcls - INFO - Saving checkpoint at 132 epochs
+2023-02-08 00:08:14,199 - mmcls - INFO - Epoch(val) [132][20]	accuracy_top-1: 93.1400, accuracy_top-5: 99.7800
+2023-02-08 00:08:59,618 - mmcls - INFO - Saving checkpoint at 133 epochs
+2023-02-08 00:09:03,538 - mmcls - INFO - Epoch(val) [133][20]	accuracy_top-1: 93.1900, accuracy_top-5: 99.7700
+2023-02-08 00:09:48,976 - mmcls - INFO - Saving checkpoint at 134 epochs
+2023-02-08 00:09:52,896 - mmcls - INFO - Epoch(val) [134][20]	accuracy_top-1: 93.0800, accuracy_top-5: 99.7700
+2023-02-08 00:10:38,308 - mmcls - INFO - Saving checkpoint at 135 epochs
+2023-02-08 00:10:42,238 - mmcls - INFO - Epoch(val) [135][20]	accuracy_top-1: 93.2000, accuracy_top-5: 99.7700
+2023-02-08 00:11:27,963 - mmcls - INFO - Saving checkpoint at 136 epochs
+2023-02-08 00:11:31,893 - mmcls - INFO - Epoch(val) [136][20]	accuracy_top-1: 93.2200, accuracy_top-5: 99.7500
+2023-02-08 00:12:17,395 - mmcls - INFO - Saving checkpoint at 137 epochs
+2023-02-08 00:12:21,331 - mmcls - INFO - Epoch(val) [137][20]	accuracy_top-1: 93.0900, accuracy_top-5: 99.7700
+2023-02-08 00:13:06,818 - mmcls - INFO - Saving checkpoint at 138 epochs
+2023-02-08 00:13:10,744 - mmcls - INFO - Epoch(val) [138][20]	accuracy_top-1: 93.1100, accuracy_top-5: 99.7600
+2023-02-08 00:13:56,211 - mmcls - INFO - Saving checkpoint at 139 epochs
+2023-02-08 00:14:00,147 - mmcls - INFO - Epoch(val) [139][20]	accuracy_top-1: 93.1000, accuracy_top-5: 99.7700
+2023-02-08 00:14:45,593 - mmcls - INFO - Saving checkpoint at 140 epochs
+2023-02-08 00:14:49,524 - mmcls - INFO - Epoch(val) [140][20]	accuracy_top-1: 93.1900, accuracy_top-5: 99.7500
+2023-02-08 00:15:34,978 - mmcls - INFO - Saving checkpoint at 141 epochs
+2023-02-08 00:15:38,950 - mmcls - INFO - Epoch(val) [141][20]	accuracy_top-1: 93.1200, accuracy_top-5: 99.7600
+2023-02-08 00:16:24,378 - mmcls - INFO - Saving checkpoint at 142 epochs
+2023-02-08 00:16:28,337 - mmcls - INFO - Epoch(val) [142][20]	accuracy_top-1: 93.1200, accuracy_top-5: 99.7600
+2023-02-08 00:17:13,794 - mmcls - INFO - Saving checkpoint at 143 epochs
+2023-02-08 00:17:17,724 - mmcls - INFO - Epoch(val) [143][20]	accuracy_top-1: 93.1900, accuracy_top-5: 99.7400
+2023-02-08 00:18:03,015 - mmcls - INFO - Saving checkpoint at 144 epochs
+2023-02-08 00:18:06,931 - mmcls - INFO - Epoch(val) [144][20]	accuracy_top-1: 93.1600, accuracy_top-5: 99.7600
+2023-02-08 00:18:52,229 - mmcls - INFO - Saving checkpoint at 145 epochs
+2023-02-08 00:18:56,061 - mmcls - INFO - Epoch(val) [145][20]	accuracy_top-1: 93.0700, accuracy_top-5: 99.7500
+2023-02-08 00:19:41,399 - mmcls - INFO - Saving checkpoint at 146 epochs
+2023-02-08 00:19:45,194 - mmcls - INFO - Epoch(val) [146][20]	accuracy_top-1: 93.2000, accuracy_top-5: 99.7500
+2023-02-08 00:20:30,752 - mmcls - INFO - Saving checkpoint at 147 epochs
+2023-02-08 00:20:34,708 - mmcls - INFO - Epoch(val) [147][20]	accuracy_top-1: 93.2200, accuracy_top-5: 99.7400
+2023-02-08 00:21:20,107 - mmcls - INFO - Saving checkpoint at 148 epochs
+2023-02-08 00:21:24,061 - mmcls - INFO - Epoch(val) [148][20]	accuracy_top-1: 93.1700, accuracy_top-5: 99.7400
+2023-02-08 00:22:09,386 - mmcls - INFO - Saving checkpoint at 149 epochs
+2023-02-08 00:22:13,292 - mmcls - INFO - Epoch(val) [149][20]	accuracy_top-1: 93.1800, accuracy_top-5: 99.7400
+2023-02-08 00:22:58,710 - mmcls - INFO - Saving checkpoint at 150 epochs
+2023-02-08 00:23:02,626 - mmcls - INFO - Epoch(val) [150][20]	accuracy_top-1: 93.1100, accuracy_top-5: 99.7400
+2023-02-08 00:23:47,952 - mmcls - INFO - Saving checkpoint at 151 epochs
+2023-02-08 00:23:51,866 - mmcls - INFO - Epoch(val) [151][20]	accuracy_top-1: 93.2200, accuracy_top-5: 99.7300
+2023-02-08 00:24:37,321 - mmcls - INFO - Saving checkpoint at 152 epochs
+2023-02-08 00:24:41,231 - mmcls - INFO - Epoch(val) [152][20]	accuracy_top-1: 93.1200, accuracy_top-5: 99.7500
+2023-02-08 00:25:26,485 - mmcls - INFO - Saving checkpoint at 153 epochs
+2023-02-08 00:25:30,396 - mmcls - INFO - Epoch(val) [153][20]	accuracy_top-1: 93.2000, accuracy_top-5: 99.7400
+2023-02-08 00:26:15,662 - mmcls - INFO - Saving checkpoint at 154 epochs
+2023-02-08 00:26:19,561 - mmcls - INFO - Epoch(val) [154][20]	accuracy_top-1: 93.0900, accuracy_top-5: 99.7400
+2023-02-08 00:27:04,557 - mmcls - INFO - Saving checkpoint at 155 epochs
+2023-02-08 00:27:08,468 - mmcls - INFO - Epoch(val) [155][20]	accuracy_top-1: 93.1400, accuracy_top-5: 99.7400
+2023-02-08 00:27:53,523 - mmcls - INFO - Saving checkpoint at 156 epochs
+2023-02-08 00:27:57,429 - mmcls - INFO - Epoch(val) [156][20]	accuracy_top-1: 93.1500, accuracy_top-5: 99.7500
+2023-02-08 00:28:42,662 - mmcls - INFO - Saving checkpoint at 157 epochs
+2023-02-08 00:28:46,564 - mmcls - INFO - Epoch(val) [157][20]	accuracy_top-1: 93.1900, accuracy_top-5: 99.7400
+2023-02-08 00:29:31,763 - mmcls - INFO - Saving checkpoint at 158 epochs
+2023-02-08 00:29:35,524 - mmcls - INFO - Epoch(val) [158][20]	accuracy_top-1: 93.2400, accuracy_top-5: 99.7500
+2023-02-08 00:30:20,742 - mmcls - INFO - Saving checkpoint at 159 epochs
+2023-02-08 00:30:24,511 - mmcls - INFO - Epoch(val) [159][20]	accuracy_top-1: 93.2000, accuracy_top-5: 99.7400
+2023-02-08 00:31:10,837 - mmcls - INFO - Saving checkpoint at 160 epochs
+2023-02-08 00:31:14,845 - mmcls - INFO - Epoch(val) [160][20]	accuracy_top-1: 93.1800, accuracy_top-5: 99.7400
